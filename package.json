@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-public",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "Description for solidity-public",
   "main": "src/index.js",
   "scripts": {
